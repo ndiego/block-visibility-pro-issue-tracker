@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+    - name: Pro Support
+      url: https://www.blockvisibilitywp.com/account/
+      about: If you are a Pro license holder and have a support question, please submit a support ticket through Your Account on blockvisibilitywp.com
+    - name: General help request
+      url: https://wordpress.org/support/plugin/block-visibility/
+      about: For general help requests about the core Block Visibility plugin, create a new topic in the support forum on WordPress.org.
