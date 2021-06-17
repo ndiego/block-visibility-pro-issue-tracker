@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a bug with Block Visibility Pro
+about: Report a bug with Block Visibility Pro.
 
 ---
 
